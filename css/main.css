@@ -1,0 +1,57 @@
+.wrapper {
+    font-family: "League Spartan", sans-serif;
+    color: #161515;
+}
+
+.welcome__container {
+    display: flex;
+}
+
+.welcome {
+    background: #f8f8f8;
+}
+
+.offer {
+    padding-top: 104px;
+    max-width: 640px;
+}
+
+.offer__model {
+    font-weight: 300;
+    font-size: 24px;
+    margin-bottom: 53px;
+}
+
+.title {
+    font-weight: 300;
+    font-size: 250px;
+    color: #272727;
+    line-height: 0.9;
+    margin-bottom: 54px;
+}
+
+.desc {
+    font-size: 32px;
+    line-height: 155%;
+}
+
+.buy__link {
+    background-color: #161515;
+    font-size: 32px;
+    color: #fff;
+    padding: 26px 44px;
+    display: inline-block;
+}
+
+.buy__price {
+    /* box-shadow- 1- смешение по оси абцисс 2- смещение по оси ординат 3- растяжение 4- размытие -- цвет */
+    box-shadow: 0 0 28px 0 rgba(214, 214, 214, 0.25);
+    background-color: #fff;
+    display: inline-flex;
+}
+
+.buy {
+    display: flex;
+
+
+}
